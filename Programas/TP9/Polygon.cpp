@@ -2,7 +2,6 @@
 #include <iostream>
 #include <cmath>
 #include <vector>
-#include <iterator>
 
 Polygon::Polygon() {}
 
